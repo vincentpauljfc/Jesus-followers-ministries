@@ -1,0 +1,6 @@
+{
+  "name": "JFC Connect",
+  "description": "Connecting Jesus Followers Church members globally with sermons, digital Bible, worship songbooks, and prayer booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
